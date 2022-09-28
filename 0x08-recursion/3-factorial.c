@@ -1,7 +1,7 @@
 include "main.h"
 
 /**
- * int factorial(int n); - returns the factorial of a given number
+ * factorial - factorial of a given number
  * @n: pointer block of memory to fill
  * Return: factorial
  */
