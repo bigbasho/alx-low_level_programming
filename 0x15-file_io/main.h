@@ -1,7 +1,7 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
-#include <elf.h>
+#include <elf.>
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
